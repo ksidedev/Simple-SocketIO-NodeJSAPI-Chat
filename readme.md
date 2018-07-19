@@ -11,3 +11,5 @@ npm install
 
 npm start
 ```
+
+- Start server at http://localhost:3001/
